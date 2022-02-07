@@ -1,0 +1,14 @@
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - cartopy
+  - numpy
+  - pandas
+  - matplotlib
+  - joblib
+  - pathlib
+  - pip:
+      - scikit-learn
+      
